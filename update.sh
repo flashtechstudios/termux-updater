@@ -8,5 +8,5 @@ echo Updating....
 pkg upgrade
 pkg update
 echo done!!
-echo Exiting after 1 min
-sleep 1m
+echo Exiting after 10 seconds
+sleep 10s
