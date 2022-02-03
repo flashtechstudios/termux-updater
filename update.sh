@@ -5,8 +5,8 @@ echo ==============================
 echo This script updates packages on termux
 echo ==============================
 echo Updating....
-pkg upgrade
-pkg update
+pkg upgrade -y
+pkg update -y
 echo done!!
 echo Exiting after 10 seconds
 sleep 10s
