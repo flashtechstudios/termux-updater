@@ -1,3 +1,10 @@
 # termux-updater
  
-I have combined the 2 commands to update the packes in termux into a script. Before executing please run: chmod +x update.sh and if you are already in terminal go to the directory where you have saved it and then put ./update.sh to run it. Enjoy!
+I have combined the 2 commands to update the packes in termux into a script. Enjoy!
+
+To run it:
+- Go to this webpage to download the repo: https://github.com/Devesh3293/termux-updater/archive/refs/heads/main.zip
+- Extract it.
+- Put it anywhere you want.
+- Go inside the folder
+- run sh update.sh
