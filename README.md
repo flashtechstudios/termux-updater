@@ -2,9 +2,9 @@
  
 I have combined the 2 commands to update the packes in termux into a script. Enjoy!
 
+**MAKE SURE WGET IS INSTALLED!**
+*(To verify run wget in termux)*
 To run it:
-- Go to this webpage to download the repo: https://github.com/Devesh3293/termux-updater/archive/refs/heads/main.zip
-- Extract it.
-- Put it anywhere you want.
-- Go inside the folder
-- run sh update.sh
+- run: wget https://raw.githubusercontent.com/themoonmeetsthesun/termux-updater/main/update.sh
+- run: cd termux-updater
+- run: sh update.sh
