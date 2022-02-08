@@ -5,6 +5,5 @@ I have combined the 2 commands to update the packes in termux into a script. Enj
 **MAKE SURE WGET IS INSTALLED!**
 *(To verify run wget in termux)*
 To run it:
-- run: wget https://raw.githubusercontent.com/themoonmeetsthesun/termux-updater/main/update.sh
-- run: cd termux-updater
-- run: sh update.sh
+- Run: > wget https://raw.githubusercontent.com/themoonmeetsthesun/termux-updater/main/update.sh && sh update.sh
+- If you want to execute it again, you can always run: > sh update.sh from the same directory in which you are in.
