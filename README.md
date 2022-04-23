@@ -3,7 +3,7 @@
 I have combined the 2 commands to update the packes in termux into a script. Enjoy!
 
 **MAKE SURE WGET IS INSTALLED!**
-*(To verify run wget in termux. If wget isn't installed then run "pkg install wget")*
+*(To verify run wget in termux. If wget isn't installed then run `pkg install wget`)*
 To run it:
 (without the double quotes)
 - Run: `wget https://raw.githubusercontent.com/themoonmeetsthesun/termux-updater/main/update.sh` && `sh update.sh`
